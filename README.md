@@ -5,6 +5,10 @@ Use [Codable](https://developer.apple.com/documentation/swift/codable) with [Fir
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage) 
 [![Build Status](https://travis-ci.org/alickbass/CodableFirebase.svg?branch=master)](https://travis-ci.org/alickbass/CodableFirebase)
 
+####note: This fork was updated with code from:
+[caoer/CodableFirebase](https://github.com/caoer/CodableFirebase)
+
+
 ## Overview
 
 This library helps you to use your custom types that conform to `Codable` protocol with Firebase. Here's an example of a custom model:
